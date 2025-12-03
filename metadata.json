@@ -1,0 +1,5 @@
+{
+  "name": "세종시교육청 민원 자동 분류 시스템",
+  "description": "AI 기반 민원 내용 분석 및 담당 부서 자동 배정 시스템",
+  "requestFramePermissions": []
+}
